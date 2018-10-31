@@ -1,0 +1,1 @@
+from ankiplugin import *
